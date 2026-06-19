@@ -16,12 +16,12 @@
 
 ## 官方入口
 
-[访问 SubanScript 官网](https://suban.vip/)
+- 访问 SubanScript 官网 https://suban.vip/
 
-[安装脚本，新用户无门槛领取试用](https://suban.vip/install)
+- 安装脚本，新用户无门槛领取试用 https://suban.vip/install
 
-[查看海角产品功能介绍](https://suban.vip/product/haijiao)
+- 查看海角产品功能介绍 https://suban.vip/product/haijiao
 
 ## 联系方式
 
-Telegram 客服：@suban_support
+Telegram 客服：https://t.me/suban_support
